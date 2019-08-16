@@ -1,0 +1,30 @@
+baseURL = "https://blog.igaryhe.io/"
+languageCode = "zh-CN"
+theme = "hermit"
+hasCJKLanguage = true
+author = "Dan"
+title = "ない"
+
+[params]
+  include_rss = true
+  homeSubtitle = "这里除了一个无趣的人什么也没有"
+  title = "ない"
+  author = "Dan"
+  themeColor = "#494f5c"
+
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+  
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 20
