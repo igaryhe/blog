@@ -6,6 +6,7 @@ author = "Dan"
 title = "ない"
 pageinate = 5
 enableRobotsTXT = true
+copyright = "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png\" /></a><br />All the works on this site are licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\">CC BY-NC-ND 4.0 International License</a>."
 
 [params.rss]
 includeContent = true
